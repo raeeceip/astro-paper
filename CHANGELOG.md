@@ -69,7 +69,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Others
 
 - docs: update estimated reading time blog post (#354)
-- docs: add instructions for Google Site Verification in AstroPaper (#353)
+- docs: add instructions for Google Site Verification in BlackBird Research (#353)
 - docs: update pre-commit hook blog post (#344)
 - ci: add CI workflow (#340)
 
@@ -205,7 +205,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 * Astro v3
 
-> Check the AstroPaper v3 in [this blog post](https://astro-paper.pages.dev/posts/astro-paper-v3/)
+> Check the BlackBird Research v3 in [this blog post](https://astro-paper.pages.dev/posts/astro-paper-v3/)
 
 ### Features
 
@@ -288,7 +288,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### ⚠ BREAKING CHANGES
 
-Check the AstroPaper v2 in [this blog post](https://astro-paper.pages.dev/posts/astro-paper-2/)
+Check the BlackBird Research v2 in [this blog post](https://astro-paper.pages.dev/posts/astro-paper-2/)
 
 * **deps:** Migration of Astro to version 2
 
